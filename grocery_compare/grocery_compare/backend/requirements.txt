@@ -1,0 +1,13 @@
+selenium>=4.20
+beautifulsoup4
+lxml
+requests
+pandas
+numpy
+pydantic-settings
+sqlalchemy>=2.0
+fastapi
+uvicorn[standard]
+apscheduler>=3.10,<4
+pytest
+httpx
